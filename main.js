@@ -13,4 +13,4 @@ function Capture_image(){
     });
 
 }
-var classifier = ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/cTExpOqzK/model.json",modelLoaded)
+var classifier = ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/ZB4t0nN9T/model.json",modelLoaded)
